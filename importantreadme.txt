@@ -300,3 +300,11 @@ export default data;
 
 5. the addtocard button should have a title="Add to Cart" and removefromcart button which occurs when the product is in the cart 
    should have title="Remove from Cart"
+
+
+6. When you enter wrong inut in signin and signup details it should show please enter valid data in the toastify
+
+
+7. when you add to cart it show product added successfully! in toastify
+
+8. whenthe product is already added and you add again from the home page it should show product added successfully!   in toastify
